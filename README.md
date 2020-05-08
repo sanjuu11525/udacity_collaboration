@@ -28,7 +28,7 @@ Please make sure each ```file_path``` in ```train_dqn.ipynb``` and ```eval.py```
 1. Clone the repository and initialize the submodules.
 
 ```
-git clone https://github.com/sanjuu11525/udacity_collabroration.git
+git clone https://github.com/sanjuu11525/udacity_collaboration.git
 cd udacity_collabroration
 ```
 
