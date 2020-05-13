@@ -7,7 +7,7 @@ This repository is to solve the Udacity exercise, Collaboration and Competition,
 ### The Environment
 The state space has 24 dimensions to describe the position and velocity of the rocket and ball. Each agent receives its own, local observation. Continuous action space has 2 outputs with respect to movement toward (or away from) the net, and jumping.
 
-If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01 and the episode is done. The task is episodic and solved if agents get an average score of +0.5 over 100 consecutive episodes.
+If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. The task is episodic and solved if agents get an average score of +0.5 over 100 consecutive episodes.
 
 ![](images/images.gif)
 
